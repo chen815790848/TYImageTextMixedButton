@@ -3,7 +3,7 @@
 //  TYImageTextMixedButton
 //
 //  Created by thomasTY on 15/11/15.
-//  Copyright © 2016年 滕佳超. All rights reserved.
+//  Copyright © 2015年 滕佳超. All rights reserved.
 //
 
 import UIKit
